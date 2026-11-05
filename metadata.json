@@ -1,0 +1,6 @@
+{
+  "name": "Velorah — Digital Spaces for Deep Focus",
+  "description": "A minimalist cinematic hero experience for Velorah, designing tools and digital spaces for deep thinkers, bold creators, and quiet rebels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
